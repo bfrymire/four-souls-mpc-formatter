@@ -1,0 +1,26 @@
+# Ignore card images
+*.jpg
+*.jpeg
+*.bmp
+*.png
+*.gif
+*.tiff
+*.pdf
+
+# Ignore the output folder to prevent copying built files back in
+cards/
+orders/
+output/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+
+# Ignore Git-related files
+.git
+.gitignore
