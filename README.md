@@ -274,7 +274,7 @@ For more details, check out [How to Create Double-Sided Cards](#how-to-create-do
 
 ## Additional Questions
 
-Have any questions? [Create a new issue!](issues/new)
+Have any questions? [Create a new issue!](https://github.com/bfrymire/four-souls-mpc-formatter/issues/new)
 
 ## Attributions
 
