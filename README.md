@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/images/LOGO.png" style="display:block; margin:auto; width:300px" alt="Four Souls MPC Formatter Logo"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/bfrymire/four-souls-mpc-formatter/master/assets/images/LOGO.png" style="display:block; margin:auto; width:300px" alt="Four Souls MPC Formatter Logo"></div>
 <h1 align="center">Four Souls MPC Formatter v1.0.0</h1>
 
 **Four Souls MPC Formatter** is a program to format your locally downloaded, print-ready [Four Souls](https://foursouls.com) cards into XML files. These files are then fed into [mpc-autofill](https://github.com/chilli-axe/mpc-autofill) to ✨automagically✨ fill out your [_MakePlayingCards_](https://www.makeplayingcards.com/) order.
@@ -149,7 +149,7 @@ my-working-directory/
 │   ├── ...
 ```
 
-![mpc-autofill Terminal](assets/images/mpc-autofill_terminal.png)
+![mpc-autofill Terminal](https://raw.githubusercontent.com/bfrymire/four-souls-mpc-formatter/master/assets/images/mpc-autofill_terminal.png)
 
 9. **Review Your Order**
 
@@ -163,9 +163,9 @@ my-working-directory/
 - Once the order is in your cart, update the **Card Finishing** setting.
 - Based on [Print Four Souls](https://printfoursouls.com//) recommendations, change **Card Finishing** to **BETA playing card finish**.
 
-![Print Four Souls Suggested Regular Card Settings](assets/images/printfoursouls_mpc_settings.png)
+![Print Four Souls Suggested Regular Card Settings](https://raw.githubusercontent.com/bfrymire/four-souls-mpc-formatter/master/assets/images/printfoursouls_mpc_settings.png)
 
-![MPC Change Card Finishing for Order in Cart](assets/images/mpc_cart_change_card_finishing.png)
+![MPC Change Card Finishing for Order in Cart](https://raw.githubusercontent.com/bfrymire/four-souls-mpc-formatter/master/assets/images/mpc_cart_change_card_finishing.png)
 
 11. **Complete Order!**
 
@@ -246,7 +246,7 @@ my-working-directory/
 │   │   │   ├── r-anima_sola.png
 ```
 
-![Double-sided card example](assets/images/double_sided_card_example.png)
+![Double-sided card example](https://raw.githubusercontent.com/bfrymire/four-souls-mpc-formatter/master/assets/images/double_sided_card_example.png)
 
 ## FAQ
 
