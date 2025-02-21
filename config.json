@@ -1,0 +1,13 @@
+{
+  "card_backs": {
+    "bonus_soul": "./cards/card_backs/bonus_soul_card_back.jpg",
+    "character": "./cards/card_backs/character_card_back.jpg",
+    "loot": "./cards/card_backs/loot_card_back.jpg",
+    "monster": "./cards/card_backs/monster_card_back.jpg",
+    "room": "./cards/card_backs/room_card_back.jpg",
+    "starting_item": "./cards/card_backs/starting_item_card_back.jpg",
+    "treasure": "./cards/card_backs/treasure_card_back.jpg"
+  },
+  "orders_dir": "./orders",
+  "combine_card_types": true
+}
