@@ -210,7 +210,7 @@ In this example, the expansion _"My Favorite Four Souls Cards"_ contains seven s
 
 ### Notes on Formatting
 
-- **Folder name letter cases do not matter**, `Starting Item/` and `starting_item/` will both be recognized as the same card type.
+- **Folder names do not have to be case-sensitive**, `Starting Item/` and `starting_item/` will both be recognized as the same card type.
 - **Use "Starting Item" and not "Eternal Item"** when creating a card type folder for a character's initial item.
 - **Do not mix card types** within the same folder. Each card type must have its own folder.
 - **File names do not matter**, but using a consistent naming convention is recommended.
